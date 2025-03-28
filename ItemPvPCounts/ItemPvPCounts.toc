@@ -1,0 +1,7 @@
+## Interface: 20502
+## Author: Macumba
+## Title: ItemPvPCounts
+## Notes: Display Honor Points and Arena Points.
+## SavedVariables: ItemPvPCountsDB
+
+ItemPvPCounts.lua
